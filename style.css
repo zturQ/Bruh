@@ -14,3 +14,11 @@ body {
     align-items: center;
     justify-content: center;
 }
+.penes {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
