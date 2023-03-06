@@ -9,6 +9,8 @@ body {
 }
 .txt {
     color: white;
+    border: 4px solid #666;
+    padding: .5em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
